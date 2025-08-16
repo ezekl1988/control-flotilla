@@ -1,0 +1,7 @@
+{
+  "name": "control-flotilla",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
